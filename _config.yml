@@ -1,4 +1,3 @@
-layout_spectrum: 0.43257121788337827
 typography_spectrum: 0.047045486280694604
 color:
   brandStrength: 0.3015408827923238
@@ -11,4 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.43257121788337827
 name: unreal randomness
+title: hello
+description: this is not real
