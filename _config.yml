@@ -1,0 +1,14 @@
+layout_spectrum: 0.43257121788337827
+typography_spectrum: 0.047045486280694604
+color:
+  brandStrength: 0.3015408827923238
+  lightness: 0.579570289934054
+  saturation: 0.5376045084558427
+  rhythmicContrast: 0.04519549966789782
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: unreal randomness
