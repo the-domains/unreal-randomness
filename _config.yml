@@ -1,16 +1,16 @@
-typography_spectrum: 0.047045486280694604
+typography_spectrum: 0.28130529122427106
 color:
-  brandStrength: 0.3015408827923238
-  lightness: 0.579570289934054
-  saturation: 0.5376045084558427
-  rhythmicContrast: 0.04519549966789782
+  brandStrength: 0.9995288492646068
+  lightness: 0.5487849293276668
+  saturation: 0.8207333020400256
+  rhythmicContrast: 0.8134832696523517
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.43257121788337827
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+layout_spectrum: 0.8603046818170696
 name: fishtank
 title: hello
 description: this is not real
