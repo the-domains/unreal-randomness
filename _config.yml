@@ -1,16 +1,16 @@
-typography_spectrum: 0.047045486280694604
+typography_spectrum: 0.3057991398964077
 color:
-  brandStrength: 0.3015408827923238
-  lightness: 0.579570289934054
-  saturation: 0.5376045084558427
-  rhythmicContrast: 0.04519549966789782
+  brandStrength: 0.5824833256192505
+  lightness: 0.08592933299951255
+  saturation: 0.33826205297373235
+  rhythmicContrast: 0.7943893366027623
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.43257121788337827
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+layout_spectrum: 0.939607318257913
 name: fishtank
 title: fishtank
 description: we're home!
